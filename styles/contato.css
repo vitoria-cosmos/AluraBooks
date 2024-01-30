@@ -7,29 +7,37 @@
     font-size: 18px;
     font-weight: 500;
     color: var(--azul);
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 
 }
 
 .contato__texto {
     color: var(--azul);
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
     font-size: 16px;
     padding: 1em 0;
+    font-weight: 300;
 }
 
-.contato__caixa {
+.contato__email {
     background-color: transparent;
     border: 1px solid var(--azul);
     color: var(--azul);
     border-radius: 24px;
     padding: 1em;
-    width: 100%;
+    width: 90%;
 }
 
-.contato__caixa::placeholder {
+.contato__email::placeholder {
     font-family: var(--fonte-principal);
     font-size: 16px;
     color: var(--azul);
     background: url("../img/Email.svg") no-repeat;
-    background-position: 0.5em;
-    text-align: center;
+    padding-left: 2em;
 }
