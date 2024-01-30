@@ -6,7 +6,7 @@
 .topicos__titulo {
     color: var(--branco);
     font-weight: 300;
-    padding: 1em;
+    padding-top: 1.5em;
 }
 
 .topicos__lista {
@@ -14,12 +14,12 @@
     flex-wrap: wrap;
     gap: 1em;
     justify-content: center;
-    padding: 1em;
+    padding: 2em;
 }
 
 .lista__item {
-    background-color: orange;
-    padding: 0.5em;
+    background-color: var(--laranja);
+    padding: 1em;
 
 }
 
