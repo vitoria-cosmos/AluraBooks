@@ -59,6 +59,7 @@
 
 .descricao__texto {
     font-size: 14px;
+    color: var(--azul);
 }
 
 .botoes__item {

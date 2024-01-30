@@ -1,0 +1,5 @@
+.cabecalho {
+    background-color: var(--cinza);
+    font-size: 16px;
+    padding: 2em;
+}
