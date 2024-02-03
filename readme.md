@@ -6,7 +6,7 @@ Construi esse projeto no curso de Front-end da Alura.
 Algumas imagens do projeto nas três telas: 
 
 ## Mobile:
- <img src="/projectImg/mobilepImage.png">
+ <img src="/projectImg/mobileImage.png">
 
 ## Tablet: 
  <img src="/projectImg/tabletImage.png">
