@@ -1,11 +1,18 @@
 # Alura Books
-Olá, Bem vindo ao projeto Alura Books, em que foi utilizada a técnica Mobile-First para se ter um Layout responsivo para as telas de celulares, tablets e desktop. 
+Olá, Bem vindo ao projeto Alura Books, em que foi utilizada a técnica Mobile-First para se ter um Layout responsivo para as telas de celulares, tablets e desktop.
 
-Algumas imagens do projeto: 
+Construi esse projeto no curso de Front-end da Alura.
 
+Algumas imagens do projeto nas três telas: 
+
+## Mobile:
+ <img src="/projectImg/mobilepImage.png">
+
+## Tablet: 
+ <img src="/projectImg/tabletImage.png">
+
+## Desktop: 
 <img src="/projectImg/desktopImage.png">
-<img src="/projectImg/mobileImage.png">
-<img src="/projectImg/tabletImage.png">
 
 ## Ferramentas utilizadas:
 
