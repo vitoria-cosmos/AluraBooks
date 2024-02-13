@@ -1,6 +1,7 @@
 # Alura Books
 Olá, Bem vindo ao projeto Alura Books, em que foi utilizado o conceito Mobile-First para se ter um Layout responsivo para as telas de celulares, tablets e desktop.
-Alura Books é uma página fictícia de uma biblioteca online.
+
+## Alura Books é uma página fictícia de uma biblioteca online.
 
 Construi esse projeto no curso de Front-end da Alura.
 
